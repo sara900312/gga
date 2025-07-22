@@ -1,0 +1,10 @@
+project_id = "wkzjovhlljeaqzoytpeb"
+
+[functions.admin-login-v2]
+verify_jwt = false
+
+[functions.assign-order]
+verify_jwt = false
+
+[functions.auto-assign-orders]
+verify_jwt = false
